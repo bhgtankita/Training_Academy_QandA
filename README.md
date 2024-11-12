@@ -1,0 +1,3 @@
+This innovative helper application is designed to streamline and enhance support for frequently asked questions at the training academy. Built with a user-friendly Streamlit interface, the application leverages LangChain’s powerful integration with Google PaLM (Gemini) and advanced embedding models to deliver accurate, real-time responses.
+
+Inspired by concepts from [Codebasics LangChain Q&A Project](https://github.com/codebasics/langchain/tree/main/3_project_codebasics_q_and_a), this application has been thoughtfully updated and adapted to accommodate recent advancements and library changes. With these modifications, the tool ensures seamless and effective interaction, empowering users with quick access to the information they need.
